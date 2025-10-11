@@ -39,7 +39,7 @@ It was built using a real-world e-commerce dataset and aims to identify key tren
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard_screenshot.png)
 
 ---
 
