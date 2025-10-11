@@ -50,5 +50,3 @@ It was built using a real-world e-commerce dataset and aims to identify key tren
 
 ---
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
