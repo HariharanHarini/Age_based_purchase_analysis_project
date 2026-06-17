@@ -196,7 +196,7 @@ The Power BI dashboard includes:
 
 
 ```markdown
-(Dashboard_screenshot.png)
+(Dashboard_screenshot.png) Dashboard_screenshot.png
 ```
 
 ---
@@ -276,7 +276,7 @@ Age_based_purchase_analysis_project/
 Computer Science Graduate | Data Analyst | Python Developer | AI Enthusiast
 
 * GitHub: https://github.com/HariharanHarini
-* LinkedIn: Add Your LinkedIn Profile
+* LinkedIn:https://www.linkedin.com/in/harinihariharan/ 
 
 ---
 
